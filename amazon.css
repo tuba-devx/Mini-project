@@ -21,7 +21,7 @@
 }
 
 .logo {
-    background-image: url(images/Amazon\ \(1\).svg);
+    background-image: url(Amazon(1).svg);
     background-size: cover;
     height: 60px;
     width: 70px;
@@ -47,7 +47,6 @@
       color: #cccccc;
       font-size: 0.85rem;
       margin-left: 25px;
-    /* margin-top: 8px; */
 }
 
 .add-sec{
@@ -61,7 +60,6 @@
     align-items: center;
     margin-left: 9px;
      margin-top: -30px;
-     /* margin-bottom: 10px; */
 } 
  /* search-box */
 .nav-search{
@@ -154,7 +152,7 @@ span{
 }
 /* hero-section */
 .hero-section{
-    background-image: url(images/home\ image.jpg);
+    background-image: url(home image.jpg);
     height: 350px;
     background-size: cover;
     display: flex;
@@ -188,7 +186,6 @@ span{
 .box{
     height: 500px;
     width: 23%;
-    /* border: 2px solid black; */
     background-color: white;
     padding: 20px 0px ;
     margin-top: 15px;
@@ -196,7 +193,7 @@ span{
 
 .box-image{
     height: 300px;
-    background-image: url(images/gaming.jpg);
+    background-image: url(gaming.jpg);
     background-size: cover;
     margin-bottom: 1rem;
     margin-top: 1rem;
@@ -246,7 +243,7 @@ span{
 
 .box-image2{
       height: 300px;
-        background-image: url( images/school.jpg);
+        background-image: url(school.jpg);
     background-size: cover;
     margin-bottom: 0.25rem;
     margin-top: 1rem;
@@ -254,7 +251,7 @@ span{
 
 .box-image3{  
      height: 300px;
-      background-image: url( images/women.webp);   
+      background-image: url( beauty.png);   
     background-size: cover;
     margin-bottom: 1rem;
     margin-top: 1rem;
@@ -262,7 +259,7 @@ span{
 
 .box-image4{
      height: 300px;
-        background-image: url( images/hooks.webp);
+        background-image: url(hooks.webp);
     background-size: cover;
     margin-bottom: 1rem;
     margin-top: 1rem;
@@ -270,7 +267,7 @@ span{
 
 .box-image5{
       height: 300px;
-        background-image: url( images/clothes.png);
+        background-image: url(clothes.png);
     background-size: cover;
     margin-bottom: 1rem;
     margin-top: 1rem;
@@ -278,7 +275,7 @@ span{
 
 .box-image6{  
      height: 300px;
-      background-image: url( images/balck\ set.webp);   
+      background-image: url(balck set.webp);   
     background-size: cover;
     margin-bottom: 1rem;
     margin-top: 0.25rem;
@@ -286,7 +283,7 @@ span{
 
 .box-image7{
      height: 300px;
-        background-image: url( images/furniture.jpg);
+        background-image: url(furniture.jpg);
     background-size: cover;
     margin-bottom: 1rem;
     margin-top: 1rem;
@@ -295,7 +292,7 @@ span{
 
 .box-image8{
      height: 300px;
-        background-image: url( images/women.webp);
+        background-image: url(women.webp);
     background-size: cover;
     margin-bottom: 1rem;
     margin-top: 1rem;
